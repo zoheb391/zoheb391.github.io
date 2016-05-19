@@ -1,7 +1,7 @@
 ---
 layout: post
 title: blog? Yeah right
-cover: first_post.jpg
+cover: cover.jpg
 date:   2016-05-08 12:00:00
 categories: posts
 ---
