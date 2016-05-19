@@ -25,7 +25,7 @@ body {
 }
 
 a {
-  color: #8085C1;
+  color: #333333;
   text-decoration: none;
   border: none;
 }
@@ -85,6 +85,7 @@ a:hover {
   display: inline-block;
   text-align: center;
   line-height: 25px;
+  font-size: 15em;
 }
 
 .tagline {
@@ -128,14 +129,12 @@ a:hover {
   color: #787878;
 }
 
-#cover-photo-container,
+#cover-photo-container, 
 #info-container {
-  display: block;
-}
-
-#info-container {
-  margin-top: 3em;
-}
+  display: block;  
+  padding-bottom: 5px;
+  padding-top: 5px;  
+  }
 
 #title {
   color: #4a4a4a;
@@ -146,8 +145,8 @@ a:hover {
 }
 
 .post {
-  line-height: 24px;
-  max-width: 725px;
+  line-height: 30px;
+  max-width: 820px;
   clear: both;
 }
 
@@ -175,7 +174,7 @@ a:hover {
 
 .post p {
   font-family: 'Source Sans Pro', Arial, sans-serif;
-  font-size: 17px;
+  font-size: 19px;
   margin-bottom: 1.45em;
   text-align: justify;
 }
@@ -224,7 +223,7 @@ a:hover {
 .sidebar {
   float: left;
   width: 14%;
-  padding-left: 11em;
+  padding-left: 14.5em;
   padding-right: 2.125em;
   border-right: 1px solid #e7e7e7;
 }
@@ -288,4 +287,5 @@ a:hover {
   margin-top: 1.25em;
   font-size: 0.95em;
   color: #777;
+  padding-right: 2em;
 }
