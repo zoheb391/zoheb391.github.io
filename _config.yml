@@ -1,3 +1,3 @@
 name: zoheb-salam
-markdown: redcarpet
+markdown: kramdown
 highlighter: rouge
