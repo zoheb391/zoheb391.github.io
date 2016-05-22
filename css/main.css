@@ -142,6 +142,7 @@ a:hover {
   font-size: 3em;
   line-height: 40px;
   text-transform: uppercase;
+  padding-top: 0.5em;
 }
 
 .post {
