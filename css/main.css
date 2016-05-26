@@ -85,8 +85,9 @@ a:hover {
   display: inline-block;
   text-align: center;
   line-height: 25px;
-  font-size: 15em;
-  
+  font-size: 17.5em;
+  padding-top: 0.02em;
+
 }
 
 .tagline {
@@ -182,10 +183,12 @@ a:hover {
 }
 
 .post p {
-  font-family: 'Raleway', Arial, sans-serif;
-  font-size: 18px;
+  font-family: 'Roboto', sans-serif;
+  font-size: 20px;
   margin-bottom: 1.45em;
   text-align: justify;
+  letter-spacing: 0.4px;
+  font-weight: 500;
 }
 
 .post ul, .post ol {
@@ -227,6 +230,7 @@ a:hover {
   -webkit-overflow-scrolling: touch;
   overflow-y: auto;
   overflow-x: hidden;
+  letter-spacing: 0.4px;
 }
 
 .sidebar {
@@ -245,7 +249,7 @@ a:hover {
 .header {
   text-align: center;
   padding-top: 2.5em;
-  font-size: 1.1em;
+  font-size: 1.2em;
 }
 
 .post-link {
