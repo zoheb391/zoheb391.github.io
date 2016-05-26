@@ -56,6 +56,10 @@ a:hover {
   color: #444;
 }
 
+.post {
+  font-size: 20px;
+}
+
 .posts a:hover {
   color: #777;
 }
